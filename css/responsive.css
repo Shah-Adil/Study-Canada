@@ -638,7 +638,7 @@
   }
 
   .home-top-banner-box-left {
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -674,6 +674,10 @@
 
   .footer-body {
     gap: 20px;
+  }
+
+  .home-top-banner-box-right {
+    display: none;
   }
 
 

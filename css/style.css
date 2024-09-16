@@ -1216,7 +1216,7 @@ textarea {
 
 .visa-box {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 19px;
   margin-bottom: 20px;
 }
@@ -1226,8 +1226,9 @@ textarea {
 }
 
 .visa .visa-box img {
-  width: 15px;
-  height: 15px;
+	width: 15px;
+	height: 15px;
+	transform: translateY(2px);
 }
 
 .visa-content-grid {
